@@ -1,0 +1,6 @@
+resolver: ghc-7.10
+use-ghcjs: true
+packages:
+  - .
+extra-deps:
+  - ghcjs-dom-0.2.1.0
